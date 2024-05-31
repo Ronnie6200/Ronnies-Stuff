@@ -1,7 +1,7 @@
 Hello everyone! I am Ronnie, a beginner in code, I am AUTTP.
-Please use these files wisely, as there is some malware. If you install, I am not at fault for your computer frying.
-I also make other things, so check that out to!
-Btw, the main.py thing is malware.
+Please use these files wisely, as there is some malware. If you install it, I am not at fault for your computer frying.
+I also make other things, so check that out too!
+By the way, the main.py thing is malware.
 ----ATTENTION!----
 How to remove my malware:
 OPEN THE ZIP FILE.
